@@ -1,7 +1,5 @@
-package Day08;
-
+package Day08.Assignment_capgemini01;
 import java.util.Scanner;
-
 public class Average_three_no {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

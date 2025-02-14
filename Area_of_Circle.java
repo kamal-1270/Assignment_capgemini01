@@ -1,6 +1,6 @@
 // Write a program to calculate the area of a circle. Take the radius as input and use the formula:
 
-package Day08;
+package Day08.Assignment_capgemini01;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Day08;
+package Day08.Assignment_capgemini01;
 
 import java.util.Scanner;
 

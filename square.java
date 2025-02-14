@@ -2,7 +2,7 @@
 // and prints the result of base raised to the exponent (without using loops or
 // conditionals).
 
-package Day08;
+package Day08.Assignment_capgemini01;
 import java.util.Scanner;
 
 public class square {

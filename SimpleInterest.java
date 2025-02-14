@@ -1,5 +1,5 @@
 // Write a program to calculate simple interest using the formula Take Principal, Rate, and Time as inputs from the user.
-package Day08;
+package Day08.Assignment_capgemini01;
 import java.util.*;
 public class SimpleInterest {
     public static void main(String[] args) {
